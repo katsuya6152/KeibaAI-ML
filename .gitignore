@@ -131,3 +131,5 @@ dmypy.json
 
 configdb/
 mongodb_data/
+
+.vs
